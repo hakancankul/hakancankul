@@ -69,5 +69,5 @@
 
 <div align="center">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakancankul&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img width="100%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=hakancankul&theme=tokyonight&hide_border=true" />
+  <img width="50%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=hakancankul&theme=tokyonight&hide_border=true" />
 </div>
