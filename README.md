@@ -8,11 +8,7 @@
 
 - 🔧 On the backend, I primarily work with Java 21, Spring Boot 3, PostgreSQL, JWT, Docker, and Flyway, following clean architecture principles.
 
-- 📱 Currently exploring React Native to build cross-platform mobile applications, with a focus on performance and usability.
-
 - 🧩 I’m actively learning and experimenting with microservices architecture, aiming to embrace modular, maintainable, and scalable backend systems.
-
-- 🚀 While not yet an expert, I’m developing a solid foundation in DevOps practices and tools such as CI/CD pipelines, Docker Compose, and Swagger/OpenAPI.
 
 - ☁️ I’m also seeking to grow my expertise in cloud-native development, especially with services like AWS, GCP, or Azure, and tools like Kubernetes and infrastructure as code.
 
